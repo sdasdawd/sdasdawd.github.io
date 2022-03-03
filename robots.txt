@@ -1,2 +1,4 @@
 User-agent: *
 allow:*
+Disallow: /index_files/FiraCode.css
+Disallow: /index_files/nutssss.css
